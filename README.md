@@ -15,8 +15,8 @@ My journey in Tech has led me to develop a passion for Data Science, and I am no
 | Skill                                                  | Associated Project         |
 |--------------------------------------------------------|----------------------------|
 | Python                                                 | <a href="https://github.com/Kofisam247/Kofisam.git">FoodHub Project</a>|
-| Inferential Statistics, Estimation & Hypothesis Testing| <a href="https://google.com">E News Express Project</a>|
-| Linear Regression                                      | <a href="https://google.com">Recell Project</a>|
+| Inferential Statistics, Estimation & Hypothesis Testing| <a href="https://github.com/Kofisam247/Kofisam.git">E News Express Project</a>|
+| Linear Regression                                      | <a href="https://github.com/Kofisam247/Kofisam.git">Recell Project</a>|
 
 
 
